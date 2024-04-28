@@ -27,4 +27,4 @@ Let's connect and create something amazing together! 🌟
 **Version Control** and Operating Systems: Git / GitHub / GitLab, Linux server environment
 
 
-**Backend Operations**: Celery, Proficient in developing complex APIs, server provisioning, and microservices orchestration. Familiar with messaging and caching solutions like Redis and Kafka.
+**Backend Operations**: Thread Pooling, Proficient in developing complex APIs, server provisioning, and microservices orchestration. Familiar with messaging and caching solutions like Redis and Kafka.
